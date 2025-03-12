@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(148, 144, 255);
+}
+#identificador{
+    color: darkslategrey; /*cor*/
+    text-align: center; /*alinhamento do texto*/
+    font-size: 20px; /*tamanho da fonte*/
+    margin: 50px; /*margem*/  
+}
+.classe{
+    background-color: rgb(8, 0, 255); /*cor*/
+    text-align: center; /*alinhamento do texto*/
+    font-size: 50px; /*tamanho da fonte*/
+    margin: 50px; /*margem*/
+    color: rgb(255, 255, 255);
+    padding: 30px;
+
+}
+.texto{
+    color: rgb(225, 255, 0);
+    line-height: 30px;
+    text-align: center;
+    text-transform:capitalize;
+    font-weight: bold;
+    border: 1px solid rebeccapurple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+}
